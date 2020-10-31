@@ -30,3 +30,4 @@ md_02_aula_4 - When is your birthday?
 Revisão
 	19/10/2020 - DIA
 	26/10/2020 - SEMANA 01
+	02/11/2020 - SEMANA 02

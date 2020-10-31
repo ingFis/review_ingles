@@ -26,3 +26,4 @@ md_02_aula_8 - Objects and locations
 Revisão
 	24/10/2020 - DIA
 	31/10/2020 - SEMANA 01
+	07/11/2020 - SEMANA 02

@@ -1,0 +1,31 @@
+md_03_aula_1 Describing someone
+
+	1. It looks like you're in love
+	2. She is blonde, has straight hair, medium built, a little tall and very funny
+	3. You have a crush on this girl
+	4. Pedro: Has a short black hair, is thin, medium hight, funny an shy
+	5. Mariana: Is a brunette, has a strainght hair, is medium built, short, funny and outgoing
+	6. Lucas: is bold, strong, tall, nice and shy
+	7. Julia: Is a brunette, has wavy hair, medium built, medium hight, outgoing and hardworking
+	8. We are going so slow. I'm too shy, and when I finally have courage to ask her out, she gets the flu
+	9. I'm not very selfconfident, I think I'm thin, I don't like my hair, sometimes I can be boring
+       10. You are always in a good mood 
+       11. It must be nice to have a friend from the internet
+       12. I don't have any virtual friend, I'm not computers
+       13. I don't know how to use it like you do
+       14. 
+	ANY(Perguntas e frases negativas)-> Is there anybody at the door? | There is anybody at the door
+	SOME(Frases afirmativas) -> There is somebody at the door
+	NO(Frases afirmativas com sentido negativo) -> There is nobody at the door
+       15. I'm into something
+       16. I look up to her | Pedro looks up to her
+       17. To look up someone
+       18. What does he/she look like?
+       19. I have to go the community tv station tomorrow to write a story for my offices' newspapaer
+       20. The stoty is going to be about training projects. Would you like to come?
+       21. Blonde, brunette, red hair, curly hair, wavy hair, bold, dreadlocks, blackpower, wears glasses, strainght hair
+       22. funny, boring / nice, hardworking / lazy, shy / outgoing, irritating, honest, demanding, thin/fat|chubby|overweight
+	
+Revisão
+	10/11/2020 - DIA
+	17/11/2020 - SEMANA 01

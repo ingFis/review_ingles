@@ -11,7 +11,7 @@ md_03_aula_1 Describing someone
 	9. I'm not very selfconfident, I think I'm thin, I don't like my hair, sometimes I can be boring
        10. You are always in a good mood 
        11. It must be nice to have a friend from the internet
-       12. I don't have any virtual friend, I'm not computers
+       12. I don't have any virtual friend, I'm not into computers
        13. I don't know how to use it like you do
        14. 
 	ANY(Perguntas e frases negativas)-> Is there anybody at the door? | There is anybody at the door
@@ -29,3 +29,4 @@ md_03_aula_1 Describing someone
 Revisão
 	10/11/2020 - DIA
 	17/11/2020 - SEMANA 01
+

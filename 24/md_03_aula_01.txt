@@ -14,7 +14,7 @@ md_03_aula_1 Describing someone
        12. I don't have any virtual friend, I'm not into computers
        13. I don't know how to use it like you do
        14. 
-	ANY(Perguntas e frases negativas)-> Is there anybody at the door? | There is anybody at the door
+	ANY(Perguntas e frases negativas)-> Is there anybody at the door? | There is not anybody at the door
 	SOME(Frases afirmativas) -> There is somebody at the door
 	NO(Frases afirmativas com sentido negativo) -> There is nobody at the door
        15. I'm into something
@@ -28,5 +28,5 @@ md_03_aula_1 Describing someone
 	
 Revisão
 	10/11/2020 - DIA
-	17/11/2020 - SEMANA 01
-
+	17/11/2020 - SEMANA 01	
+	24/11/2020 - SEMANA 02

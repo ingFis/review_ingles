@@ -35,7 +35,7 @@ md_03_aula_6 Talking about movies
        26. In the 60's we had our golden time. And in the 90's, Brazilian cinema was born again
        27. What are you? A movie specialist?
        28. No, not even close. Just a big fan. Movies can be a source of information
-       29. There are a lot of Brazilian movies that tell important facts about our culture, our history 
+       29. There are a lot of Brazilian movies that tell important facts about our culture(coltra), our history 
        30. We can see some of them whenever you want
        31. We can do a movie session in my house this weekend, or in Lucas's house... He has a DVD now!
        32. That's right. I forgot!
@@ -44,3 +44,5 @@ md_03_aula_6 Talking about movies
 Revisão
 	27/11/2020 - DIA
 	04/12/2020 - SEMANA 01
+	11/12/2020 - SEMANA 02
+	11/01/2021 - MÊS 01

@@ -1,8 +1,8 @@
-md_03_aula_8 Movie session at home
+md_03_aula_9 Movie session at home
 
 	1. I rented five Brazilian movies
 	2. Can we start the movie session earlier than(mais cedo que) 7 o'clock? We have a lot of movies to watch
-	3. Let me help you with those baags, Mariana. 
+	3. Let me help you with those bags, Mariana. 
 	4. Take this one with the soft drinks. This is heavier than that
 	5. Where did you rent those movies?
 	6. I rented them at a video store on the north side of the town
@@ -23,7 +23,7 @@ md_03_aula_8 Movie session at home
        21. Don't worry, I think you are more good-looking than him
        22. GOOD-LOOKING != ugly - palavra grande usa-se more ao invés de Er
        23. PEDRO IS MORE GOOD-LOOKING THAN CARLOS
-       24. THAN STORE IS MORE EXPENSIVE THAN THE OTHER ONE
+       24. THAT STORE IS MORE EXPENSIVE THAN THE OTHER ONE
        25. The first film we can watch is the oldest one. It was made in 1964
        26. Then we can watch this film, made in 2002, after that we can discuss to see which one we think is better or worse
        27. I thought the first one was better than second one
@@ -39,5 +39,5 @@ md_03_aula_8 Movie session at home
        37. Bad (comparativo == Worse than superlativo == the worst)
 
 Revisão
-	15/12/2020 - DIA
+	16/12/2020 - DIA
 	22/12/2020 - SEMANA 01

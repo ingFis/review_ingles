@@ -3,7 +3,7 @@ md_03_aula_1 Describing someone
 	1. It looks like you're in love
 	2. She is blonde, has straight hair, medium built, a little tall and very funny
 	3. You have a crush on this girl
-	4. Pedro: Has a short black hair, is thin, medium hight, funny an shy
+	4. Pedro: Has a short black hair, is thin, medium hight, funny and shy
 	5. Mariana: Is a brunette, has a strainght hair, is medium built, short, funny and outgoing
 	6. Lucas: is bold, strong, tall, nice and shy
 	7. Julia: Is a brunette, has wavy hair, medium built, medium hight, outgoing and hardworking
@@ -31,3 +31,4 @@ Revisão
 	17/11/2020 - SEMANA 01	
 	24/11/2020 - SEMANA 02
 	24/12/2020 - MÊS 01
+	24/03/2021 - MÊS 03

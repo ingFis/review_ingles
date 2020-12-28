@@ -33,12 +33,12 @@ md_03_aula_8 The radio station
        31. Now I have to work, but i not complaning
        32. You gain responsibilities and start to walk with your own legs
        33. oh, well! You heard what she said, Let's hear another song, you can only listen to it here in the Open Air Radio Station
-       34. YOUTH x CILDHOOD
+       34. YOUTH x CHILDHOOD
        35. You gain responsibilities, but you start to walk with your own legs
        36. GAIN
        37. But before you go, I made a little surprise. I prepared a snack for us
        38. That is very kind of you!
-       39. And I brought these book for you, Júlia! Some of them talk about journalism and the others are classecs of Brazilian Literature
+       39. And I brought these book for you, Júlia! Some of them talk about journalism and the others are classics of Brazilian Literature
        40. How nice! I can read it in my spare time. We read that one last year.
        41. I brought something for you too. This is an article. I wrote for my last office's newspaper
        42.
@@ -57,3 +57,5 @@ md_03_aula_8 The radio station
 Revisão
 	15/12/2020 - DIA
 	22/12/2020 - SEMANA 01
+	29/12/2020 - SEMANA 02
+	29/01/2021 - MÊS 01

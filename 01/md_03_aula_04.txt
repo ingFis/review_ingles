@@ -6,7 +6,7 @@ md_03_aula_4 Let's go shopping
 	4. were you at home yesterday? No, I was not
 	5. WHERE were you yesterday? I was at work, writing for the newspaper
 	6. What do you want to buy? clothes... I need new clothes to work
-	7. I need new pants, t-shits, sweater, the office has air conditioning, I need socks and new shoes...
+	7. I need new pants, t-shirts, sweater, the office has air conditioning, I need socks and new shoes...
 	8. WHEN was the last time you went shopping?
 	9. It was a long time ago
        10. I can see that, you need everthing
@@ -36,3 +36,4 @@ Revisão
 	24/11/2020 - SEMANA 01
 	01/12/2020 - SEMANA 02
 	01/01/2021 - MÊS 01
+	01/04/2021 - MÊS 03

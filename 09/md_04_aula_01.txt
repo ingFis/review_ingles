@@ -30,6 +30,8 @@ md_04_aula_1 - A little help from my freinds
        25. GONNA == GOING TO 
        26. STAND UP FOR
 
+	besides, otherwise, on the other hand, however, even though, therefore
+
 	planos fixos                       == GOING TO   - I am gonna buy a new house next year
 	previsão/palpite                   == GOING TO   - I think I'm gonna throw up!
 	previsão(certeza)                  == WILL       - I will rain(confirmado), I'm sure you'll like her
@@ -37,5 +39,4 @@ md_04_aula_1 - A little help from my freinds
 	ofertas/promessas                  == WILL       - I'll carry those for you!!
       
 Revisão
-	02/02/2021 - DIA
-	09/01/2021 - SEMANA 01
+	09/02/2021 - DIA

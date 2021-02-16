@@ -41,3 +41,4 @@ md_04_aula_1 - A little help from my freinds
 Revisão
 	09/02/2021 - DIA
 	16/02/2021 - SEMANA 01
+	23/02/2021 - SEMANA 02

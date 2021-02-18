@@ -41,3 +41,4 @@ md_04_aula_2 - The recycling center
 Revisão
 	11/02/2021 - DIA
 	18/02/2021 - SEMANA 01
+	25/02/2021 - SEMANA 02
